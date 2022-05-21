@@ -1,0 +1,16 @@
+circular_buffer.c:26:6:circular_buffer_init	4	static
+circular_buffer.c:42:13:buff_store_char	24	static
+circular_buffer.c:57:8:find_str	32	static
+circular_buffer.c:88:6:buffer_clear	16	static
+circular_buffer.c:106:9:buffer_peek	16	static
+circular_buffer.c:137:9:buffer_read	24	static
+circular_buffer.c:176:6:buffer_write	24	static
+circular_buffer.c:210:9:is_data	16	static
+circular_buffer.c:232:13:get_first_char	16	static
+circular_buffer.c:247:8:is_response	24	static
+circular_buffer.c:286:8:get_next_strs	32	static
+circular_buffer.c:303:6:buffer_send_string	16	static
+circular_buffer.c:311:15:process_copy	40	static
+circular_buffer.c:364:8:copy_up_to_string	16	static
+circular_buffer.c:370:6:esp82_uart_callback	16	static
+circular_buffer.c:399:6:debug_uart_callback	16	static
